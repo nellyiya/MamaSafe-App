@@ -149,8 +149,8 @@ admin_dashboard.png
 
 ## CHW Dashboard
 ![CHW Dashboard]
-<img width="488" height="1018" alt="image" src="https://github.com/user-attachments/assets/243dcc82-b74a-420d-9306-238a54874756" />
 
+<img width="488" height="1018" alt="image" src="https://github.com/user-attachments/assets/243dcc82-b74a-420d-9306-238a54874756" />
 <img width="495" height="1009" alt="image" src="https://github.com/user-attachments/assets/30af3604-4bdb-4f9b-ac4a-fe1968a657ba" />
 
 
@@ -163,8 +163,10 @@ admin_dashboard.png
 ## Healthcare Professional Dashboard
 
 ![Healthcare Professional Dashboard](screenshots/healthcare_dashboard.png)
+
 <img width="507" height="973" alt="image" src="https://github.com/user-attachments/assets/a7e97bcf-8cac-4f07-8d23-fd7f718997bf" />
 <img width="483" height="1016" alt="image" src="https://github.com/user-attachments/assets/00840453-ea3b-420a-9600-9b3ddefc5427" />
+
 <img width="492" height="1019" alt="image" src="https://github.com/user-attachments/assets/d560c894-dc27-4d30-b7a4-62fa95755048" />
 <img width="511" height="1026" alt="image" src="https://github.com/user-attachments/assets/acee930d-1c37-4490-9ce1-b502bd327707" />
 
@@ -173,6 +175,7 @@ admin_dashboard.png
 ## Admin Dashboard
 
 ![Admin Dashboard](screenshots/admin_dashboard.png)
+
 <img width="1916" height="897" alt="image" src="https://github.com/user-attachments/assets/220c3bab-c7da-4ce7-906b-b53aa76b87aa" />
 <img width="1913" height="911" alt="image" src="https://github.com/user-attachments/assets/8731ae26-0859-4bca-86a1-00856ba73fbd" />
 
