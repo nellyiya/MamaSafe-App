@@ -14,7 +14,7 @@ The goal of the application is to improve early detection of pregnancy complicat
 
 Watch the full system demonstration here:
 
-https://www.youtube.com/watch?v=Yui0GwxqLeA
+https://youtu.be/u-I1qjgyACc
 
 The video demonstrates:
 
