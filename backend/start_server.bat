@@ -1,0 +1,3 @@
+@echo off
+echo Starting MamaSafe Backend Server...
+python -m uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
