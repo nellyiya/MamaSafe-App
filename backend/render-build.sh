@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-
-pip install --upgrade pip
+export PYTHON_VERSION=3.11.9
 pip install -r requirements.txt
