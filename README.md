@@ -26,7 +26,8 @@ The video demonstrates:
 * Testing with different maternal health data values
 
 ---
-
+# Hosted
+https://resplendent-profiterole-d5bc5d.netlify.app/
 # Project Structure
 
 MamaSafe-App
